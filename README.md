@@ -42,18 +42,21 @@ This analysis aims to provide a data-driven overview of the Airbnb landscape in 
 ---
 
 ## 3. Project Structure
+<pre>
+Capstone-2/
 ├── README.md
-├── data
-│   ├── airbnb listing bangkok.csv
-│   ├── airbnb listing cleaned.csv
+├── data/
+│   ├── airbnb_listing_bangkok.csv
+│   ├── airbnb_listing_cleaned.csv
 │   └── Bangkok-district-geoJson
-├── dictionary
-│   └── airbnb listing bangkok data dictionary.pdf
-├── reports
+├── dictionary/
+│   └── airbnb_listing_bangkok_data_dictionary.pdf
+├── reports/
 │   ├── capstone2_airbnb_bangkok_report.pdf
 │   └── capstone2_airbnb_bangkok_presentation.pptx
-└── notebooks
+└── notebooks/
     └── Capstone2_Bangkok.ipynb
+</pre>
 
 ---
 
